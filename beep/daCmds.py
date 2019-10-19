@@ -4,7 +4,7 @@ class daCmds(commands.Cog):
     """Eventually DA stuff will be here"""
 
     @commands.command()
-    async def mycom(self, ctx):
-        """This does stuff!"""
+    async def oy(self, ctx):
+        """Oyyyyyyyyy!"""
         # Your code will go here
-        await ctx.send("I can do stuff!")
+        await ctx.send("Oyyyyyyy!")

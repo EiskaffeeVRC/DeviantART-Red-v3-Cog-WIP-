@@ -1,6 +1,6 @@
 from redbot.core import commands
 
-class Mycog(commands.Cog):
+class daCmds(commands.Cog):
     """Eventually DA stuff will be here"""
 
     @commands.command()
